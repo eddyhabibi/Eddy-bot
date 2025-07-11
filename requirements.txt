@@ -1,0 +1,5 @@
+openai
+python-telegram-bot
+requests
+gspread
+oauth2client
